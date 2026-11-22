@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FEE2E2"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#BFDBFE"/><stop offset="1" stop-color="#1E3A5F"/></linearGradient></defs>
+<rect width="1200" height="700" fill="url(#sky)"/><circle cx="1020" cy="120" r="55" fill="#FDBA74" opacity="0.8"/>
+<path d="M0 470 Q200 360 420 450 T850 430 T1200 450 V700 H0Z" fill="#94A3B8" opacity="0.35"/>
+<rect y="560" width="1200" height="140" fill="#374151"/><rect y="622" width="1200" height="8" fill="#F9FAFB" opacity="0.7" stroke-dasharray="60 40"/>
+<g stroke="#F9FAFB" stroke-width="8" stroke-dasharray="70 50" opacity="0.8"><line x1="0" y1="630" x2="1200" y2="630"/></g>
+<g transform="translate(140,220)">
+<rect x="0" y="0" width="880" height="330" rx="46" fill="#B91C1C"/>
+<rect x="0" y="210" width="880" height="34" fill="#FBBF24"/>
+<rect x="34" y="40" width="130" height="150" rx="18" fill="url(#glass)"/>
+<rect x="186" y="40" width="140" height="120" rx="14" fill="url(#glass)"/>
+<rect x="344" y="40" width="140" height="120" rx="14" fill="url(#glass)"/>
+<rect x="502" y="40" width="140" height="120" rx="14" fill="url(#glass)"/>
+<rect x="660" y="40" width="190" height="150" rx="22" fill="url(#glass)"/>
+<rect x="840" y="235" width="36" height="34" rx="8" fill="#FEF08A"/>
+<rect x="4" y="250" width="28" height="26" rx="6" fill="#FCA5A5"/>
+<rect x="600" y="-14" width="200" height="22" rx="10" fill="#FBBF24" opacity="0.9"/>
+<circle cx="190" cy="330" r="62" fill="#111827"/><circle cx="190" cy="330" r="28" fill="#9CA3AF"/>
+<circle cx="700" cy="330" r="62" fill="#111827"/><circle cx="700" cy="330" r="28" fill="#9CA3AF"/>
+</g></svg>
